@@ -3,3 +3,4 @@
 ## Contributors
 
 - Master Maintainer (Hanna Joyce Ilao)
+- Contributor A (Jhone Ivan De Mayo)
