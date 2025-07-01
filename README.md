@@ -1,2 +1,5 @@
-# teamplay-collab
-Git ollaboration Practice
+# TeamPlay - A Prototype
+
+## Contributors
+
+- Master Maintainer (Hanna Joyce Ilao)
